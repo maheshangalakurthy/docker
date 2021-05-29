@@ -1,2 +1,2 @@
 FROM nginx:latest
-LABEL MAHESH
+LABEL Name="MAHESH"
